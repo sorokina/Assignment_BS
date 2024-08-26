@@ -4,7 +4,7 @@ import datetime
 from dotenv import load_dotenv
 import os
 
-from Task_2_Exchange_Rate import ExchangeRate  # Adjust the import based on your file structure
+from Task_2_Exchange_Rate import ExchangeRate
 
 load_dotenv()
 
